@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Im Epang👋
 
 <!--
 **Epangssss/Epangssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🐍 TESTING GitHub Snake Game
+![snake_gif](https://github.com/Epangssss/Epangssss/blob/output/github-snake-dark.svg)

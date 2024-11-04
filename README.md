@@ -5,18 +5,19 @@
 # 🤔 I’m looking for help with ...
 # 📫 How to reach me: ...
 - 🌱 I’m currently learning ...
--->
-Here are some ideas to get you started:
 # 🔭 I’m currently working on ...
 Building a portfolio website to showcase my projects and skills, and learning more about full-stack development.
 
 # 👯 I’m looking to collaborate on 
 Open-source projects, especially those related to web development, data science, and anything that uses technology to make a positive impact on society.
-# 💬 Ask me about ...
+-->
+Here are some ideas to get you started:
+
+# 💬 Ask me about:
 HTML, JavaScript, and my experiences with developing web applications JTNINOVA.
-# 😄 Pronouns: ...
+# 😄 Pronouns:
 He/Him
-# ⚡ Fun fact: ...
+# ⚡ Fun fact:
 "I just need to relax"
 
 

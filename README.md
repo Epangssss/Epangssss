@@ -20,6 +20,8 @@ He/Him
 # ⚡ Fun fact:
 "I just need to relax"
 
+# ⚡ Fun fact:
+![Arisu_gif](https://github.com/Epangssss/Epangssss/blob/output/Hutao.gif)
 
 ## 🐍 TESTING GitHub Snake Game
 ![snake_gif](https://github.com/Epangssss/Epangssss/blob/output/github-snake-dark.svg)

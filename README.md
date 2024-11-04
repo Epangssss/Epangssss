@@ -71,5 +71,8 @@ He/Him
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Epangssss&show_icons=true&locale=en&layout=compact" alt="Epangssss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&locale=en" alt="Epangssss" /></p>
+
 ## 🐍 TESTING GitHub Snake Game
 ![snake_gif](https://github.com/Epangssss/Epangssss/blob/output/github-snake-dark.svg)

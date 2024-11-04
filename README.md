@@ -12,6 +12,7 @@ Building a portfolio website to showcase my projects and skills, and learning mo
 Open-source projects, especially those related to web development, data science, and anything that uses technology to make a positive impact on society.
 
 # 😵‍💫 MY SOUL:
+<img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="300" alt="Gotou_gif">
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
@@ -30,11 +31,15 @@ He/Him
 "I just need to relax"
 
 # 😵‍💫MY SOUL:
-<img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="300" alt="Gotou_gif">
 <div style="display: flex; justify-content: space-around;">
     <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
     <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
     <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
+    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
+    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
 </div>
 
 

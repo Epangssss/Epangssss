@@ -1,4 +1,5 @@
 ## Hi there Im Epang👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
 <!--
 **Epangssss/Epangssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -27,7 +27,7 @@ Open-source projects, especially those related to web development, data science,
 Here are some ideas to get you started:
 
 # 💬 Ask me about:
-HTML, JavaScript, and my experiences with developing web applications JTNINOVA.
+HTML, JavaScript, and my experiences with developing web JTNINOVA.
 # 😄 Pronouns:
 He/Him
 # ⚡ Fun fact:

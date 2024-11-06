@@ -12,6 +12,8 @@ Building a portfolio website to showcase my projects and skills, and learning mo
 # 👯 I’m looking to collaborate on 
 Open-source projects, especially those related to web development, data science, and anything that uses technology to make a positive impact on society.
 
+
+
 # 😵‍💫 MY SOUL:
 <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="300" alt="Gotou_gif">
 
@@ -30,6 +32,13 @@ HTML, JavaScript, and my experiences with developing web applications JTNINOVA.
 He/Him
 # ⚡ Fun fact:
 "I just need to relax"
+
+# Follow My Social Media :👌
+<a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
+  <img src="https://www.linktr.ee/assets/linktree-icon.svg" alt="Linktree" width="40" height="40"/>
+</a>
+
+
 
 # 😵‍💫MY SOUL:
 <div style="display: flex; justify-content: space-around;">

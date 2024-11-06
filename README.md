@@ -35,8 +35,10 @@ He/Him
 
 # Follow My Social Media :👌
 <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/epangssss/epangtsuepan-repo/main/linktree-logo.svg" alt="Linktree" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Elle.gif" width="100" alt="Elle_gif">
 </a>
+
+
 
 
 

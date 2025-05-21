@@ -34,13 +34,24 @@
 
 <h1 align="center">🎮Like Pokemon🎮</h1>
 <!--Pokemon-->
-<h3 align="center"> <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="150" alt="pokeball" /></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal1_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal2_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal3_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal3_gif">
+  
+</p>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="30" alt="pokeball" />
   Pokeball
   <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="30" alt="pokeball" />
 </h3>
-<h3 align="center"> <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="150" alt="pokeball" /></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal4gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal5gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal6gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="200" alt="pokebal6gif">
+</p>
 <p align="center">
   <br><img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="1000" alt="Pokemon">
 </p>

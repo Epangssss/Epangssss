@@ -1,39 +1,21 @@
-## Hi there Im Epang👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
+## "You Can Call Me Epang"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="Epangssss`" /> </p>
 
-<!--
-**Epangssss/Epangssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 🤔 I’m looking for help with ...
-# 📫 How to reach me: ...
-- 🌱 I’m currently learning ...
-# 🔭 I’m currently working on ...
-Building a portfolio website to showcase my projects and skills, and learning more about full-stack development.
-
-# 👯 I’m looking to collaborate on 
-Open-source projects, especially those related to web development, data science, and anything that uses technology to make a positive impact on society.
+<!-- Profile -->
+<h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Edward Landung Pramudya</h1>
+<h2 align="center"> 📌 I'm a student at Politeknik Negeri Jember, Indonesia.</h2>
+<h3 align="center"> 🧑🏽‍💻 Data Protection Officer - Gama Multi Group </h3>
+<h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
+<!-- End -->
 
 
-
-# 😵‍💫 MY SOUL:
-<img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="300" alt="Gotou_gif">
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Hutao.gif" width="200" alt="Hutao_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/AnotherGif.gif" width="200" alt="Another_gif">
-</div>
-
--->
-Here are some ideas to get you started:
-
-# 💬 Ask me about:
-HTML, JavaScript, and my experiences with developing web JTNINOVA.
-# 😄 Pronouns:
-He/Him
-# ⚡ Fun fact:
-"I just need to relax"
 
 # Follow My Social Media :👌
+<!-- Coonection -->
+<h2 align="center">
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2>
+<br>
 <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Elle.gif" width="100" alt="Elle_gif">
 </a>

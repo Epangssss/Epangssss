@@ -10,9 +10,12 @@
 </p>
 
 <!-- Coonection -->
-<h2 align="center">
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
+  <span style="font-size: 24px; font-weight: bold;">Connect With Me</span>
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
+</p>
+
 <p align="center">
   <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/fitur.gif" width="150" alt="fitur_gif">

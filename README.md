@@ -12,7 +12,7 @@
 <!-- Coonection -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
-  <span style="font-size: 24px; font-weight: bold;">Don't be a stranger! Hit me up on my socials.:</span>
+  <span style="font-size: 24px; font-weight: bold;">Connect with me on social media:</span>
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
 </h1>
 

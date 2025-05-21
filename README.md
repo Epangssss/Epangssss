@@ -3,43 +3,52 @@
 
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Edward Landung Pramudya</h1>
-<h2 align="center"> 📌 I'm a student at Politeknik Negeri Jember, Indonesia.</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="500" alt="Pokemon">
-</p>
+<h2 align="center"> 📌 I'm a student at polytechnic Negeri Jember, Indonesia.</h2>
 <h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
-<h3 align="center"> Like Pokemon </h3>
-<!-- End -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/ngetik.gif" width="500" alt="ngetik">
+</p>
 
-
-
-# Follow My Social Media :👌
 <!-- Coonection -->
 <h2 align="center">
-
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2>
 <br>
-<a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Elle.gif" width="100" alt="Elle_gif">
-</a>
+<p align="center">
+  <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/fitur.gif" width="150" alt="fitur_gif">
+  </a>
+</p>
 
+<h1 align="center">The Chaos in My Mind:😵‍💫</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
+</p>
 
+<h1 align="center">🎮Like Pokemon🎮</h1>
+<!--Pokemon-->
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="150" alt="pokeball" /></h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="30" alt="pokeball" />
+  Pokeball
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="30" alt="pokeball" />
+</h3>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/pokeball.gif" width="150" alt="pokeball" /></h3>
+<p align="center">
+  <br><img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="1000" alt="Pokemon">
+</p>
 
-
-
-
-# 😵‍💫MY SOUL:
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
-</div>
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Arisu.gif" width="200" alt="Arisu_gif">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
-</div>
+<h1 align="center">🌹Cute🌹</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/cute.gif" width="300" alt="cute_gif">
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,9 +80,6 @@
 </p>
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epangssss&theme=default)
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Epangssss&show_icons=true&locale=en&layout=compact" alt="Epangssss" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&locale=en" alt="Epangssss" /></p>
 

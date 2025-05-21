@@ -10,11 +10,11 @@
 </p>
 
 <!-- Coonection -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
-  <span style="font-size: 24px; font-weight: bold;">Connect With Me:</span>
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
+  <span style="font-size: 24px; font-weight: bold;">Don't be a stranger! Hit me up on my socials.:</span>
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
+</h1>
 
 <p align="center">
   <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">

@@ -78,9 +78,16 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" />
 </p>
 
+<!-- GitHub Profile Summary Card -->
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epangssss&theme=default)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Epangssss&show_icons=true&locale=en&layout=compact" alt="Epangssss" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&locale=en" alt="Epangssss" /></p>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6" /></td>
+  </tr>
+</table>
+
 
 ## 🐍 TESTING GitHub Snake Game
 ![snake_gif](https://github.com/Epangssss/Epangssss/blob/output/github-snake-dark.svg)

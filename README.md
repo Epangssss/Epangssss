@@ -12,7 +12,7 @@
 <!-- Coonection -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
-  <span style="font-size: 24px; font-weight: bold;">Connect With Me</span>
+  <span style="font-size: 24px; font-weight: bold;">Connect With Me:</span>
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
 </p>
 

@@ -86,12 +86,12 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }}" 
+        src="https://my-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600" 
         alt="Epang's GitHub stats" />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }}" 
+        src="https://my-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&count_private=true&cache_seconds=3600" 
         alt="Top Languages" />
     </td>
   </tr>

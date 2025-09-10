@@ -78,7 +78,7 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" />
 </p>
 
-
+<!--START_STATS-->
 <!-- GitHub Profile Summary Card -->
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epangssss&theme=default)
 
@@ -86,17 +86,17 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600" 
+        src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }}" 
         alt="Epang's GitHub stats" />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&cache_seconds=3600" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }}" 
         alt="Top Languages" />
     </td>
   </tr>
 </table>
-
+<!--END_STATS-->
 
 
 

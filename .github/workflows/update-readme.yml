@@ -1,14 +1,29 @@
-name: Update GitHub Stats with Private Repos
+name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # setiap 6 jam
+    - cron: "0 */6 * * *" # tiap 6 jam
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Stats
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Activity
+        uses: jojoee/github-profile-activity-generator@latest
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update GitHub Stats
         run: |
-          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }})" > README.md
+          cp README.md README_OLD.md
+          awk '/<!--START_STATS-->/{print;print "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }})";print "";print "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&count_private=true&cache_seconds=3600&token=${{ secrets.GH_STATS_TOKEN }})";next} /<!--END_STATS-->/{print;next} 1' README_OLD.md > README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update README with latest stats"
+          branch: main

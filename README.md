@@ -83,10 +83,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=60" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&cache_seconds=60" /></td>
   </tr>
 </table>
+
 
 
 

@@ -3,7 +3,7 @@
 
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Edward Landung Pramudya</h1>
-<h2 align="center"> 📌 I'm a student at polytechnic Negeri Jember, Indonesia.</h2>
+<h2 align="center"> 📌 I'm a student at Polytechnic Negeri Jember, Indonesia.</h2>
 <h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/ngetik.gif" width="500" alt="ngetik">

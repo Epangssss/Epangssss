@@ -59,11 +59,6 @@
   <br><img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="1000" alt="Pokemon">
 </p>
 
-<h1 align="center">🌹Cute🌹</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/cute.gif" width="300" alt="cute_gif">
-</p>
-
 
 <h3 align="center">💻🖱️⌨️Languages and Tools⌨️🖱️💻:</h3>
 <p align="center">

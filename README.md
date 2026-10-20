@@ -1,82 +1,97 @@
-## "You Can Call Me Epang"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="Epangssss`" /> </p>
+<div align="center">
 
-<!-- Profile -->
-<h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Edward Landung Pramudya</h1>
-<h2 align="center"> 📌 I'm a student at Polytechnic Negeri Jember, Indonesia.</h2>
-<h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/ngetik.gif" width="500" alt="ngetik">
-</p>
+  <!-- Header & Intro -->
+  <h1>Hi there, I'm Edward Landung Pramudya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <h3>💻 Web Developer & Software Engineering Enthusiast</h3>
+  <p>🎓 Information Technology Student at <b>Politeknik Negeri Jember</b>, Indonesia</p>
 
-<!-- Coonection -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
-  <span style="font-size: 24px; font-weight: bold;">Connect with me on social media:</span>
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
-</h1>
+  <!-- Badges: Profile Views & Socials -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Epangssss&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Connect_With_Me-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/fitur.gif" width="150" alt="fitur_gif">
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/ngetik.gif" width="450" alt="Coding Animation" />
 
-<h1 align="center">The Chaos in My Mind:😵‍💫</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="200" alt="Gura_gif">
-  <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="200" alt="Gotou_gif">
-</p>
+---
 
-<h1 align="center">🎮Like Pokemon🎮</h1>
-<!--Pokemon-->
-</p>
-<p align="center">
-  <br><img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="1000" alt="Pokemon">
-</p>
+### 🚀 About Me
+- 🔭 Currently focusing on building modern **Web** and **Cross-Platform Mobile Applications**.
+- 🌱 Exploring backend architecture with **Laravel & Node.js** and mobile development with **Flutter**.
+- 🤝 Open to collaborations, internships, and exciting software engineering projects.
+- ⚡ You can call me **Epang**!
 
+---
 
-<h3 align="center">💻🖱️⌨️Languages and Tools⌨️🖱️💻:</h3>
-<p align="center">
-  <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="java" />
-  <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="javascript" />
-  <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" />
-  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" />
-</p>
+### 🛠️ Languages & Tech Stack
 
-<!--START_STATS-->
-<!-- GitHub Profile Summary Card -->
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epangssss&theme=default)
+<div align="center">
+  <p><b>Languages</b></p>
+  <p>
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" />
+  </p>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://my-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&count_private=true&cache_seconds=3600" 
-        alt="Epang's GitHub stats" />
-    </td>
-    <td>
-      <img 
-        src="https://my-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&count_private=true&cache_seconds=3600" 
-        alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-<!--END_STATS-->
+  <p><b>Frameworks & Runtime</b></p>
+  <p>
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="Tailwind CSS" />
+    &nbsp;
+    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" />
+  </p>
+</div>
 
+---
 
+### 📊 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epangssss&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Epangssss&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epangssss&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
+---
 
-## 🐍 TESTING GitHub Snake Game
-![snake_gif](https://github.com/Epangssss/Epangssss/blob/output/github-snake-dark.svg)
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epangssss/Epangssss/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epangssss/Epangssss/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<details>
+  <summary><b>🎮 Fun & Personal Corner (Click to expand)</b></summary>
+  <br/>
+  <div align="center">
+    <h4>The Chaos in My Mind 😵‍💫</h4>
+    <p>
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="160" alt="Gotou" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="160" alt="Gura" />
+    </p>
+    <h4>Pokémon Trainer Vibe 🎮</h4>
+    <p>
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="700" alt="Pokemon" />
+    </p>
+  </div>
+</details>

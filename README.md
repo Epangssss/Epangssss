@@ -45,7 +45,7 @@
 
 
 <div align="center">
-<!-- 3. Database -->
+<!-- 1. Database -->
 <h3>🗄️ Database</h3>
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
@@ -54,7 +54,7 @@
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB">
 </p>
-  <!-- 1. Languages & Markup -->
+  <!-- 2. Languages & Markup -->
   <h3>💻 Languages & Markup</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
 </p>
-  <!-- 2. Frameworks, UI & Development Tools -->
+  <!-- 3. Frameworks, UI & Development Tools -->
   <h3>⚙️ Frameworks, UI & Development Tools</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel">

@@ -113,14 +113,19 @@
   <div align="center">
     <h4>The Chaos in My Mind 😵‍💫</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/2.gif" width="160" alt="2" />
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/1.gif" width="160" alt="1" />
-       <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/3.gif" width="160" alt="3" />
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/4.gif" width="160" alt="4" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/5.gif" width="160" alt="5" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/2.gif" width="160" alt="2" />
+       <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/3.gif" width="160" alt="3" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/4.gif" width="160" alt="4" />
+         <p>
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/9.gif" width="160" alt="9" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/10.gif" width="160" alt="10" />
+       <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/7.gif" width="160" alt="7" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/8.gif" width="160" alt="8" />
     </p>
     <h4>Pokémon Trainer Vibe 🎮</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/hd.png" width="700" alt="Pokemon" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/gif/hd.png" width="700" alt="Pokemon" />
     </p>
   </div>
 </details>

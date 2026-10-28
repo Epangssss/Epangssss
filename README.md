@@ -43,31 +43,29 @@
 
 ### 🛠️ Languages & Tech Stack
 
+
 <div align="center">
-  <p><b>Languages</b></p>
+
+  <!-- 1. Languages & Markup -->
+  <h3>💻 Languages & Markup</h3>
   <p>
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP">
   </p>
 
-  <p><b>Frameworks & Runtime</b></p>
+  <!-- 2. Frameworks, UI & Tools -->
+  <h3>⚙️ Frameworks, UI & Development Tools</h3>
   <p>
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="Tailwind CSS" />
-    &nbsp;
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,react,tailwind,bootstrap,androidstudio,vscode,postman,git" alt="Laravel, Vue, React, Tailwind, Bootstrap, Android Studio, VS Code, Postman, Git">
   </p>
+
+  <!-- 3. Database -->
+  <h3>🗄️ Database</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" alt="MySQL, MongoDB, MariaDB">
+  </p>
+
 </div>
+
 
 ---
 

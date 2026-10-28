@@ -48,13 +48,17 @@
 
   <!-- 1. Languages & Markup -->
   <h3>💻 Languages & Markup</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
-  </p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter">
+</p>
   <!-- 2. Frameworks, UI & Development Tools -->
   <h3>⚙️ Frameworks, UI & Development Tools</h3>
   <p>

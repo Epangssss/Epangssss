@@ -49,15 +49,25 @@
   <!-- 1. Languages & Markup -->
   <h3>💻 Languages & Markup</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
   </p>
 
-  <!-- 2. Frameworks, UI & Tools -->
+  <!-- 2. Frameworks, UI & Development Tools -->
   <h3>⚙️ Frameworks, UI & Development Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,react,tailwind,bootstrap,androidstudio,vscode,postman,git" alt="Laravel, Vue, React, Tailwind, Bootstrap, Android Studio, VS Code, Postman, Git">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel">
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
   </p>
-
 
 <!-- 3. Database -->
 <h3>🗄️ Database</h3>

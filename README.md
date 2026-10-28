@@ -113,12 +113,14 @@
   <div align="center">
     <h4>The Chaos in My Mind 😵‍💫</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gotou.gif" width="160" alt="Gotou" />
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Gura.gif" width="160" alt="Gura" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/1.gif" width="160" alt="1" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/2.gif" width="160" alt="2" />
+       <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/3.gif" width="160" alt="3" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/4.gif" width="160" alt="4" />
     </p>
     <h4>Pokémon Trainer Vibe 🎮</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/Pokemon.gif" width="700" alt="Pokemon" />
+      <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/hd.png" width="700" alt="Pokemon" />
     </p>
   </div>
 </details>

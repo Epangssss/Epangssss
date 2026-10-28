@@ -55,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter">
 </p>

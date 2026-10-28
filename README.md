@@ -6,12 +6,26 @@
   <p>🎓 Information Technology Student at <b>Politeknik Negeri Jember</b>, Indonesia</p>
 
   <!-- Badges: Profile Views & Socials -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Epangssss&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Connect_With_Me-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-    </a>
-  </p>
+
+<!-- Social Links -->
+<p>
+  <a href="https://epangssss.web.id/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-epangssss.web.id-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://linktr.ee/epangtsuepan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://www.instagram.com/edwardlanp/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-edwardlanp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/edward-landung-pramudya-386199354/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Edward_Landung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@epangtsuepan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-@epangtsuepan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
 
   <img src="https://raw.githubusercontent.com/Epangssss/Epangssss/output/ngetik.gif" width="450" alt="Coding Animation" />
 

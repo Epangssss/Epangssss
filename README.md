@@ -58,11 +58,16 @@
     <img src="https://skillicons.dev/icons?i=laravel,vue,react,tailwind,bootstrap,androidstudio,vscode,postman,git" alt="Laravel, Vue, React, Tailwind, Bootstrap, Android Studio, VS Code, Postman, Git">
   </p>
 
-  <!-- 3. Database -->
-  <h3>🗄️ Database</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" alt="MySQL, MongoDB, MariaDB">
-  </p>
+
+<!-- 3. Database -->
+<h3>🗄️ Database</h3>
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB">
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB">
+</p>
 
 </div>
 

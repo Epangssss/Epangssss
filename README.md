@@ -56,7 +56,6 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart">
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter">
 </p>
   <!-- 2. Frameworks, UI & Development Tools -->
   <h3>⚙️ Frameworks, UI & Development Tools</h3>
@@ -66,10 +65,12 @@
     <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter">
     <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+  
   </p>
 
 <!-- 3. Database -->
